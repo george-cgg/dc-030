@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "mode": "full",
+  "commit_sha": "878e4114709daf565e9238ad8c86ebeb65b6bb2a",
+  "author": "chiriac@adobe.com",
+  "timestamp": "2026-05-27T10:01:40+03:00",
+  "detection": {
+    "ai_assisted": true,
+    "method": "editor_hook",
+    "tool": "claude-code",
+    "model": "",
+    "confidence": 1.0
+  },
+  "stats": {
+    "total_additions": 148,
+    "total_deletions": 0,
+    "ai_additions": 148,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  },
+  "files": {
+    "actions/get_model_details/index.js": {
+      "ai_additions": 148,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0,
+      "ai_lines": "1-148",
+      "human_lines": ""
+    }
+  }
+}
